@@ -1,4 +1,4 @@
-<h1>Hi, I'm Didrik Havasgaard! <br/><a href="https://github.com/havasgaard">Student</a>, <a href="https://linkedin.com/in/havasgaard">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Didrik Havasgaard! <br/><a href="https://github.com/havasgaard">Student</a> and <a href="https://linkedin.com/in/havasgaard">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects and Technical Proficiency:</h2>
 

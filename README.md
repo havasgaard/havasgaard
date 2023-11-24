@@ -37,6 +37,8 @@
   - Proficient in database design and management with MySQL, focusing on data security and integrity while optimizing queries for performance.
 - <b>SIEM Administration:</b>
   - Implementing and managing a SIEM solution with Wazuh, I've cultivated a proactive approach to security, monitoring networks, and systems for potential threats.
+- <b>Active Directory:</b>
+  - My focus in Active Directory management includes adept handling of user accounts, security groups, and organizational units. I am developing proficiency in implementing Group Policy for robust security configurations and efficient network resource management. This hands-on experience is preparing me to effectively administer and secure enterprise-level Active Directory infrastructures.
 
 <h2>📚 Currently Expanding Knowledge in:</h2>
 

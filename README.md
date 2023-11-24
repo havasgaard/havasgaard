@@ -42,11 +42,14 @@
 
 <h2>📚 Currently Expanding Knowledge in:</h2>
 
-- <b>C++ and C#:</b> - Venturing into C++ for system-level programming and C# for creating versatile and powerful applications, with an eager eye on emerging technologies and security practices.
+- <b>Penetration Testing:</b> - Actively enhancing my skills in penetration testing, focusing on identifying and exploiting vulnerabilities in various systems and networks, using tools like Metasploit and Burp Suite.
+- <b>Information Security:</b> - Deepening my understanding of information security principles, including risk management, threat analysis, and cybersecurity frameworks to protect data integrity and confidentiality.
+- <b>Privacy Security:</b> - Dedicating efforts to learn about privacy security, exploring techniques and practices that safeguard personal data and ensure compliance with privacy laws and regulations.
 
 <h2>🔧 Tools and Technologies:</h2>
 
 - Utilizing cutting-edge tools like Wazuh for security management, along with BlackArch Linux and Kali Linux for offensive security practices and system hardening.
+
 
 <h2> 💼 Professional Aspirations & Dream Role:</h2>
 

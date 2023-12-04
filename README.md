@@ -27,8 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havasgaard&show_icons=true&locale=en&layout=compact" alt="havasgaard" /></p>
 
-<h1>Hi, I'm Didrik Havasgaard! <br/><a href="https://github.com/havasgaard">Student</a> and <a href="https://linkedin.com/in/havasgaard">Aspiring Cybersecurity Professional</a></h1>
-
 <h2>👨‍💻 Projects and Technical Proficiency:</h2>
 
 - <b>Python Programming:</b>

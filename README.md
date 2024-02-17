@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a SQL-Injection and XSS script [SQLector](https://github.com/havasgaard/SQLector)
 
-- 🌱 I’m currently learning **OOPython, MYSQL, Network, Ethical Hacking, Information Security**
+- 🌱 I’m currently learning **OOPythonL, Network, Ethical Hacking, Information Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/havasgaard](https://github.com/havasgaard)
 
